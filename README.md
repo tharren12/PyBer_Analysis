@@ -24,6 +24,9 @@ V. Isualize, the CEO of Pyber, has asked for a summary of the ride-sharing data 
 * The highest average fare per driver is also in the Rural city type, followed by Suburban then Urban
 
 
+### Weekly Total Fares by City Type (Jan-Apr 2019)
+
+
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/92001105/143665542-7e5f6a52-4c89-470a-a56f-02b2de85bf89.png)
 
 * The total weekly fares for Urban city type were at the lowest at the beginning of Jan and towards the end of Apr, and had the highest points in late Feb and early Mar
